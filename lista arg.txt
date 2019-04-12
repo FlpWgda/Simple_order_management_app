@@ -1,0 +1,2 @@
+"C:\Users\Filip\Desktop\Zamówienie.csv" "C:\Users\Filip\Desktop\xmlFile.xml"
+C:\Users\Filip\Desktop\nic2.csv
